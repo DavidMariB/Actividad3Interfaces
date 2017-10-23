@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actividad3Interfaces.iml" filepath="$PROJECT_DIR$/Actividad3Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/LaBuenaGaleria.iml" filepath="$PROJECT_DIR$/LaBuenaGaleria.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
